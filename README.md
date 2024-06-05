@@ -8,7 +8,6 @@ This project is to build a simple ETL pipeline to fetch real-time data from an o
 CLIENT_KEY=<YOUR CLIENT KEY>
 API_KEY=<YOUR API KEY>
 
-
 [DATABASE]
 host=<HOST NAME>
 database=<DB NAME>
@@ -17,8 +16,6 @@ password=<PASSWORD>
 port=<PORT>
 
 ```
-
-
 ## Files
 ```
 auth.py - Contains configuration variable for making HTTP Request
